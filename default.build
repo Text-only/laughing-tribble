@@ -1,0 +1,12 @@
+{
+    "<amp-analytics>": {
+        "<a>": true,
+        "<script async custom-element=\"amp-analytics\" src=\"https://cdn.ampproject.org/v0/amp-analytics-0.1.js\"></script>\n<amp-analytics type=\"gtag\" data-credentials=\"include\">\n<script type=\"application/json\">": []
+    },
+    "<li>": {
+        "_dev": "<g>",
+        "xor": [
+            "docx-ml-uxd"
+        ]
+    }
+}
