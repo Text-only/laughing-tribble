@@ -1,0 +1,4 @@
+<iframe id="cite-me" width="600" height="180" scrolling="no" frameborder="0"></iframe>
+<script>
+!function(e,t,c) {var r,n=e.getElementsByTagName(t)[0];e.getElementById(c)||((r=e.createElement(t)).id=c,r.src="https://www.cite.me/js/citeme-generator.min.js?color=#222222&background=#ffffff&buttons=#207f7d&clipboard=y",n.parentNode.insertBefore(r,n))}(document,"script","citeme-js");
+</script>
